@@ -55,7 +55,7 @@ func merge(nums []int, l, m, r int) {
 ## 性能分析
 
 - 时间复杂度：O(n*logn)
-    - n 个元素 divide 是 O(logn)，merge n次是 O(n*logn)
+    - 推导过程：[https://www.geeksforgeeks.org/time-and-space-complexity-analysis-of-merge-sort/](https://www.geeksforgeeks.org/time-and-space-complexity-analysis-of-merge-sort/)
 - 空间复杂度：O(n)
     - 需要额外空间，**非原地操作**
 
@@ -98,7 +98,7 @@ func partition(nums []int, l, r int) int {
 ## 性能分析
 
 - 时间复杂度：O(n*logn)
-    - n 个元素 divide 是 O(logn)，partition n次是 O(n*logn)
+	- 推导公式：[https://www.geeksforgeeks.org/time-and-space-complexity-analysis-of-quick-sort/](https://www.geeksforgeeks.org/time-and-space-complexity-analysis-of-quick-sort/)
 - 空间复杂度
     - 无需额外空间，**原地操作**
 
