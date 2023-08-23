@@ -21,6 +21,9 @@
     - [06｜二叉树](algo/tree.md)
     - [07｜排序](algo/sort.md)
 
+  - LeetCode
+
+    - [堆](leetcode/heap.md)
 
 - 网络
 
