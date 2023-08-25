@@ -23,7 +23,17 @@
 
   - LeetCode
 
+    - [简单数组](leetcode/array.md)
+    - [链表](leetcode/linked-list.md)
+    - [栈 & 单调栈](leetcode/stack.md)
+    - [前缀和 & 差分](leetcode/sum.md)
+    - [双指针 & 滑动窗口](leetcode/two-pointer.md)
+    - [二叉树](leetcode/tree.md)
     - [堆](leetcode/heap.md)
+    - [简单递归](leetcode/recursive.md)
+    - [二分查找](leetcode/binary-search.md)
+    - [排序](leetcode/sort.md)
+    - [设计题](leetcode/design.md)
 
 - 网络
 

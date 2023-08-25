@@ -36,7 +36,7 @@ for i, v := range arr {
 
 # LeetCode 实战
 
-## #739 - ****[每日温度](https://leetcode.cn/problems/daily-temperatures/)****
+## #739 - [每日温度](https://leetcode.cn/problems/daily-temperatures/)
 
 ```go
 func dailyTemperatures(temperatures []int) []int {
@@ -62,7 +62,7 @@ func dailyTemperatures(temperatures []int) []int {
 // 栈来解决，单调栈
 ```
 
-## #496 - ****[下一个更大元素 I](https://leetcode.cn/problems/next-greater-element-i/)****
+## #496 - [下一个更大元素 I](https://leetcode.cn/problems/next-greater-element-i/)
 
 ```go
 func nextGreaterElement(nums1 []int, nums2 []int) []int {
@@ -89,7 +89,7 @@ func nextGreaterElement(nums1 []int, nums2 []int) []int {
 }
 ```
 
-## #503 - ****[下一个更大元素 II](https://leetcode.cn/problems/next-greater-element-ii/)****
+## #503 - [下一个更大元素 II](https://leetcode.cn/problems/next-greater-element-ii/)
 
 ```go
 func nextGreaterElements(nums []int) []int {
@@ -112,7 +112,7 @@ func nextGreaterElements(nums []int) []int {
 }
 ```
 
-## #84 - ****[柱状图中最大的矩形](https://leetcode.cn/problems/largest-rectangle-in-histogram/)****
+## #84 - [柱状图中最大的矩形](https://leetcode.cn/problems/largest-rectangle-in-histogram/)
 
 ```go
 func largestRectangleArea(heights []int) int {
@@ -148,7 +148,7 @@ func max(x, y int) int {
 // 用单调递增的栈，左右柱子就方便找到
 ```
 
-## #42 - ****[接雨水](https://leetcode.cn/problems/trapping-rain-water/)****
+## #42 - [接雨水](https://leetcode.cn/problems/trapping-rain-water/)
 
 ```go
 func trap(height []int) int {
@@ -184,6 +184,6 @@ func min(x, y int) int {
 
 # LeetCode 练习
 
-- ****[85. 最大矩形](https://leetcode.cn/problems/maximal-rectangle/)****
-- ****[1944. 队列中可以看到的人数](https://leetcode.cn/problems/number-of-visible-people-in-a-queue/)****
-- ****[1019. 链表中的下一个更大节点](https://leetcode.cn/problems/next-greater-node-in-linked-list/)****
+- [85. 最大矩形](https://leetcode.cn/problems/maximal-rectangle/)
+- [1944. 队列中可以看到的人数](https://leetcode.cn/problems/number-of-visible-people-in-a-queue/)
+- [1019. 链表中的下一个更大节点](https://leetcode.cn/problems/next-greater-node-in-linked-list/)

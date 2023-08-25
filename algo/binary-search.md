@@ -54,7 +54,7 @@ func search(nums []int, target int) int {
 
 ## 实战题
 
-### 🌟 ****704. 二分查找****
+### 🌟 704. 二分查找
 
 ```go
 func search(nums []int, target int) int {
@@ -73,7 +73,7 @@ func search(nums []int, target int) int {
 }
 ```
 
-### ****74. 搜索二维矩阵****
+### 74. 搜索二维矩阵
 
 ```go
 func searchMatrix(matrix [][]int, target int) bool {
@@ -103,7 +103,7 @@ func binarySearch(nums []int, target int) bool {
 }
 ```
 
-### ****374. 猜数字大小****
+### 374. 猜数字大小
 
 ```go
 func guessNumber(n int) int {
@@ -198,7 +198,7 @@ func search(nums []int, target int) int {
 }
 ```
 
-### ****153. 寻找旋转排序数组中的最小值****
+### 153. 寻找旋转排序数组中的最小值
 
 ```go
 // 4,5,6,7,0,1,2
@@ -290,7 +290,7 @@ func firstBadVersion(n int) int {
 
 ## 实战题
 
-### 🌟 ****34. 在排序数组中查找元素的第一个和最后一个位置****
+### 🌟 34. 在排序数组中查找元素的第一个和最后一个位置
 
 ```go
 func searchRange(nums []int, target int) []int {
@@ -362,7 +362,7 @@ func firstBadVersion(n int) int {
 }
 ```
 
-### 🌟 ****69. x 的平方根****
+### 🌟 69. x 的平方根
 
 ```go
 // m*m > x => 1
@@ -424,10 +424,10 @@ func canEatAll(piles []int, speed int, h int) bool {
 }
 ```
 
-### ****410. 分割数组的最大值****
+### 410. 分割数组的最大值
 
-### ****1482. 制作 m 束花所需的最少天数****
+### 1482. 制作 m 束花所需的最少天数
 
-### ****1011. 在 D 天内送达包裹的能力****
+### 1011. 在 D 天内送达包裹的能力
 
-### ****911. 在线选举****
+### 911. 在线选举
